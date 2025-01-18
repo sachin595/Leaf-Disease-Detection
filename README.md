@@ -1,9 +1,14 @@
 # Leaf-Disease-Detection
+
 Detection and Recognition of Leaf Disease using Image Processing
 
-![Image Processing](https://img.shields.io/badge/Skill-Image%20Processing-blue)
-![MATLAB Programming](https://img.shields.io/badge/Programming-MATLAB%20-orange)
-
+![Image Processing](https://img.shields.io/badge/Image%20Processing-blue?style=for-the-badge&logo=imagej&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-red?style=for-the-badge&logo=databricks&logoColor=white)
+![Feature Extraction](https://img.shields.io/badge/Feature%20Extraction-yellow?style=for-the-badge&logo=google-analytics&logoColor=white)
+![K-means Clustering](https://img.shields.io/badge/K--means%20Clustering-lightblue?style=for-the-badge&logo=cluster&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-purple?style=for-the-badge&logo=deep-learning&logoColor=white)
 
 
 ## Abstract
